@@ -1,0 +1,7 @@
+0
+StockMarketChat
+wallstreetbets
+EarningsWhispers
+stocks
+smallstreetbets
+StockMarket

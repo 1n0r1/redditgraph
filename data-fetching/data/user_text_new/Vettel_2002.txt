@@ -1,0 +1,11 @@
+0
+movies
+nfl
+soccer
+baseball
+NASCAR
+nba
+television
+boxoffice
+AskReddit
+Barca

@@ -1,0 +1,9 @@
+0
+wallstreetbets
+COIN_coinbase_stock
+aabbstock
+Wishstock
+CryptoXCCY
+SNDL
+VIAC
+AMPToken

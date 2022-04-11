@@ -1,0 +1,17 @@
+0
+uichicago
+CreditCards
+churning
+HealthInsurance
+personalfinance
+Insurance
+pharmacy
+Zoom
+legaladvice
+PPPLoans
+smallbusiness
+Bitcoin
+Debt
+churningreferrals
+EIDL
+IllegalLifeProTips

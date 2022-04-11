@@ -1,0 +1,11 @@
+0
+mit
+mcgill
+UBC
+Harvard
+ethz
+oxforduni
+cambridge_uni
+GRE
+columbia
+gradadmissions

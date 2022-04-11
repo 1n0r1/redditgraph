@@ -1,0 +1,7 @@
+0
+houseplants
+cactus
+pothos
+plantclinic
+peperomia
+StringofPlants

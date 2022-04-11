@@ -1,0 +1,7 @@
+0
+learnmath
+math
+Cubers
+badmathematics
+cpp
+chess

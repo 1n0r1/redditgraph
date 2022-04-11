@@ -1,0 +1,54 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.DS_Store
+images/.DS_Store
+.obj
+.vscode
+graph
+testgraph
+smallVisualizerTestOutput.png
+data-fetching/__pycache__
+data-fetching/code_verifier.txt
+data-fetching/client_id.txt
+data-fetching/token.txt
+data-fetching/code_to_get_token.txt
+data-fetching/user_info.txt
+data-fetching/token.json
+data-fetching/unused/code_verifier.txt
+data-fetching/unused/code_to_get_token.txt
+newcoords.txt
+originalcoords.txt
+coordOutputSeconds.txt
+BFSResults.txt
+graph.o

@@ -1,0 +1,4 @@
+0
+csMajors
+UIUC
+UIUC_CS

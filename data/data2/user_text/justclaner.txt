@@ -1,0 +1,10 @@
+0
+osugame
+incremental_games
+Brawlstars
+CookieClicker
+Tetris
+CompetitiveMinecraft
+MCVanillaServers
+Terraria
+plagueinc

@@ -1,0 +1,5 @@
+0
+gmu
+nova
+nursing
+nvcc

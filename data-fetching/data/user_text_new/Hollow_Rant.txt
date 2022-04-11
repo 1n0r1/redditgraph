@@ -1,0 +1,15 @@
+0
+movies
+SquaredCircle
+deadwood
+philadelphia
+news
+sixers
+television
+nba
+nfl
+worldnews
+politics
+AskReddit
+bartenders
+madmen

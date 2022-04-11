@@ -1,0 +1,10 @@
+0
+houseplants
+PlantIdentification
+Syngonium
+alocasia
+TakeaPlantLeaveaPlant
+RareHouseplantsBST
+Kayaking
+plantwatch
+plantclinic
