@@ -99,10 +99,3 @@ There is also an output image after running the test. It should looks like this:
 
 
 We created tests for all of our features. All tests read in a small dataset we created and calculated. Dijkstra and BFS test will test whether the output is as we expected from our own calculation of shortest paths. The constructor will test both the read function and the graph constructor, testing whether the graph formed the structure we intended, with the right weight all edges are two directional. There is also FileReader test which tests whether the FileReader read correctly, not missing any line and ignore empty lines. PriorityQueue test tests for basic functionality of the PriorityQueue. For the Visualizer test, we test if the output images changes the pixels at the locations that we wanted or not. For the PhysicSimulation class, we output the image, look at the image and adjust the physics model correspondingly. There are no test for this class and we just tune it so that it can output a pretty image.
-
-
-## Project Presentation
-[Here](https://youtu.be/uCpAovuVFHs) is a link to our final project presentation.
-
-
-
