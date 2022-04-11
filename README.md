@@ -1,6 +1,6 @@
 # Reddit Graph
 
-![](/images/larry_output.png "Larry Graph")
+![](/images/F_R10000stepsreducedquality.png "10000 steps")
 ### Main features:
 <ul>
     <li>Graph visualization and regional coloring</li>
