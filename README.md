@@ -1,5 +1,28 @@
 # Reddit Graph
 
+![](/images/larry_output.png "Larry Graph")
+### Main features:
+<ul>
+    <li>Graph visualization and regional coloring</li>
+	<li>Path finding to find relation between two subreddits. </li>
+	<li>Recommendations for similar subreddits</li>
+</ul>
+
+### Dataset Acquisition and Processing:
+All of our data will be collected through the reddit API. The collected data will be stored in json files and manipulated with C++. Each subreddit will be represented by a node, with edges drawn between subreddits with common users. The strength of a connection between two subreddits will be the number of common accounts that comment and post on both pages.  
+
+### Graph Algorithms:
+The specific kinds of graph algorithms we will be implementing include Breadth-First-Search (BFS) Traversal, Dijkstra’s Algorithm and a Graphic Output of the results. 
+
+#### BFS Traversal:
+Use this level order traversal to display subreddit hierarchy, with the subreddits more related to r/UIUC appearing earlier in the traversal.
+#### Dijkstra:
+Find the optimal path between two subreddits and output the smallest total weight to show the relationship between two subreddits.
+#### Graphic output:
+Use the generated graph and output an image using force-directed graph drawing. <br>
+Maybe some coloring by finding closely related region
+
+
 ## The location of all major code, data, and results
 
 /cs225 : Contains the cs225 library that involves PNG, testing, make
